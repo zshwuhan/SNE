@@ -14,4 +14,4 @@ About the datasets: There are two types of networked datasets in the paper, face
 
 2. doublelink.edgelist : This file contains links for training our model.
 
-3. test_pairs.txt: This file contains a list of node pairs. The first two column are node ids. The entries in third column indicate the existance of links. 0 means that there is no link between this pair of nodes. 1 means there is a link between nthe pair of nodes.
+3. test_pairs.txt: This file contains a list of node pairs. The first two column are node ids. The entries in third column indicate the existance of links. 0 means that there is no link between this pair of nodes. 1 means there is a link between the pair of nodes.
